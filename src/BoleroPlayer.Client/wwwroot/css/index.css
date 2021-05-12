@@ -1,0 +1,15 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.bol-app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 0 1em;
+}
+
+.bol-main {
+  margin-top: 44px;
+}
